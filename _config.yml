@@ -58,22 +58,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Aishwarya"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Exploring the interplay of science and spirituality — where logic meets the soul."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:achyutapreyasidasi@gmail.com"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0007-2124-7706"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-github"
+      url: "https://github.com/Aishwarya-APD"
 
 footer:
   links:
